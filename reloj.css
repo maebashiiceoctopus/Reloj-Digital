@@ -9,9 +9,9 @@
 body{
     font-family: 'Oswald', sans-serif;
 
-    background: url(https://i.ibb.co/j5zYDg1/workplace-2303851-1280.jpg) pink;
+    background: url(https://i.ibb.co/9rrPWXB/pexels-lisa-fotios-5740932.jpg)#000;
     background-size: cover;
-    color:#000;
+    color:#FFF;
     font-size: 16px;
 }
 
@@ -35,7 +35,7 @@ body{
     text-align: center;
     font-size: 1.5em;
     margin-bottom: 0.3125rem;
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .7);
     padding: 20px;
     width: 100%;
 }
